@@ -8,7 +8,7 @@ library(janitor)
 
 url <- 'https://www.moneycontrol.com/stocks/marketstats/nse-gainer/nifty-500_7/'
 
-#obtain html 
+#obtain  html 
 
 url_html <- read_html(url)
 
